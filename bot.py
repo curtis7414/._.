@@ -7,4 +7,4 @@ bot=commands.Bot(command_prefix= 'pog!')
 async def on_ready():
     print (">> Bot is online<<")
 
-bot.run("ODc4OTIzODYzMjQzNzcxOTA0.YSIPog.wos0_ry65oRgSTWuc-2S4FrKFEM")
+bot.run("ODc4OTIzODYzMjQzNzcxOTA0.YSIPog.ohdArSNkXSfYTnOdAVNwTwL-T1Y")
